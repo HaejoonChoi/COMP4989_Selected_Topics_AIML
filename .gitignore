@@ -127,5 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data
 100-bird-species.zip
 *.jpg
+*.h5
